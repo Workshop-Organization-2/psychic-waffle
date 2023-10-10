@@ -46,3 +46,11 @@ limits:
   max_depth: 5
   max_height: 10
   max_alaises: 3
+
+preview_persisted_queries:
+  enabled: true
+  safelist: 
+    enabled: true
+    require_id: false
+apq:
+  enabled: false
